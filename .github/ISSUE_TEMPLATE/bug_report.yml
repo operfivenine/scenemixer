@@ -1,0 +1,43 @@
+name: Bug report / Ошибка
+description: Report a reproducible SceneMixer problem / Сообщить о воспроизводимой ошибке
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: "Include only files you can share. Remove personal paths from screenshots and logs. / Уберите личные пути и приватные данные."
+  - type: input
+    id: version
+    attributes:
+      label: SceneMixer version and package revision / Версия и ревизия пакета
+      placeholder: 21.0 R4 WIN01
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version and build / Версия и сборка Windows
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / Шаги воспроизведения
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result / Ожидаемый результат
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result / Фактический результат
+    validations:
+      required: true
+  - type: textarea
+    id: media
+    attributes:
+      label: Media properties, screenshots or log excerpts / Параметры видео, скриншоты или фрагменты логов
+      description: Container, codec, resolution, FPS if relevant. / Контейнер, кодек, разрешение, FPS при необходимости.
