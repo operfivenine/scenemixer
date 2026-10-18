@@ -1,0 +1,20 @@
+# Documentation/distribution repository: keep private and build materials out.
+work/
+review/
+__pycache__/
+.venv/
+.env
+.env.*
+*.py
+*.pyc
+*.pyd
+*.exe
+*.dll
+*.onnx
+*.zip
+*.smx
+*.scm
+*.scenemixer.json
+*.log
+Thumbs.db
+.DS_Store
