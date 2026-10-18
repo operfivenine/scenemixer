@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#download"><img src="assets/readme/button-download.ru.svg" alt="Статус загрузки"></a>
+  <a href="https://github.com/operfivenine/scenemixer/releases/download/v21.0-r4-win01/SceneMixer-21.0-R4-WIN01-Setup-x64.exe"><img src="assets/readme/button-download.ru.svg" alt="Скачать для Windows"></a>
   <a href="docs/user-guide.ru.md"><img src="assets/readme/button-guide.ru.svg" alt="Руководство пользователя"></a>
   <a href="https://boosty.to/oper59"><img src="assets/readme/button-support.ru.svg" alt="Поддержать SceneMixer"></a>
 </p>
@@ -24,7 +24,11 @@
 
 ## Загрузка
 
-**SceneMixer 21.0 R4 · публичная загрузка готовится.** Тестовый установщик WIN01 для Windows x64 уже есть; его публичный выпуск ещё не утверждён. После утверждения здесь появятся ссылка на проверенный установщик и контрольные суммы релиза.
+**SceneMixer 21.0 R4 · WIN01 · Windows x64 · Предварительный релиз**
+
+**[Скачать установщик — 167,2 МиБ](https://github.com/operfivenine/scenemixer/releases/download/v21.0-r4-win01/SceneMixer-21.0-R4-WIN01-Setup-x64.exe)** · [Описание релиза](https://github.com/operfivenine/scenemixer/releases/tag/v21.0-r4-win01) · [Контрольные суммы SHA-256](https://github.com/operfivenine/scenemixer/releases/download/v21.0-r4-win01/SHA256SUMS.txt)
+
+Скачайте и запустите установщик, затем следуйте его шагам. Перед обновлением закройте SceneMixer. WIN01 — публичный тестовый пакет; матрица проверенных систем и минимальные требования к оборудованию ещё готовятся.
 
 Сборка уже установлена? Начните с [первого монтажа](docs/tutorials/01_First_Mix.ru.md).
 
@@ -108,7 +112,7 @@ SceneMixer использует PySide6 / Qt, PySceneDetect, OpenCV и [FFmpeg](
 
 Нашли ошибку? [Создайте обращение в Issues](https://github.com/operfivenine/scenemixer/issues). Укажите версию программы, Windows и шаги воспроизведения — [подробнее](docs/troubleshooting.ru.md#report-a-problem).
 
-**Оператор: oper59.** Условия распространения будут указаны вместе с утверждённым релизом.
+**Оператор: oper59.**
 
 ---
 

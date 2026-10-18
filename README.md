@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#download"><img src="assets/readme/button-download.svg" alt="Download status"></a>
+  <a href="https://github.com/operfivenine/scenemixer/releases/download/v21.0-r4-win01/SceneMixer-21.0-R4-WIN01-Setup-x64.exe"><img src="assets/readme/button-download.svg" alt="Download for Windows"></a>
   <a href="docs/user-guide.md"><img src="assets/readme/button-guide.svg" alt="User guide"></a>
   <a href="https://boosty.to/oper59"><img src="assets/readme/button-support.svg" alt="Support SceneMixer"></a>
 </p>
@@ -24,7 +24,11 @@
 
 ## Download
 
-**SceneMixer 21.0 R4 · public download pending.** A Windows x64 WIN01 test installer exists; its public release has not been approved. A verified installer link and release checksums will appear here after approval.
+**SceneMixer 21.0 R4 · WIN01 · Windows x64 · Pre-release**
+
+**[Download the installer — 167.2 MiB](https://github.com/operfivenine/scenemixer/releases/download/v21.0-r4-win01/SceneMixer-21.0-R4-WIN01-Setup-x64.exe)** · [Release notes](https://github.com/operfivenine/scenemixer/releases/tag/v21.0-r4-win01) · [SHA-256 checksums](https://github.com/operfivenine/scenemixer/releases/download/v21.0-r4-win01/SHA256SUMS.txt)
+
+Download and run the installer, then follow its steps. Close SceneMixer before updating an existing installation. WIN01 is a public test package; the tested-system matrix and minimum hardware requirements are still pending.
 
 Already have a build? Follow the [first-mix guide](docs/tutorials/01_First_Mix.md).
 
@@ -108,7 +112,7 @@ SceneMixer uses PySide6 / Qt, PySceneDetect, OpenCV and [FFmpeg](https://ffmpeg.
 
 Found a bug? [Open an issue](https://github.com/operfivenine/scenemixer/issues) with your SceneMixer version, Windows version and reproduction steps. See [what to include](docs/troubleshooting.md#report-a-problem).
 
-**Operator: oper59.** Distribution terms will be stated with the approved release.
+**Operator: oper59.**
 
 ---
 
