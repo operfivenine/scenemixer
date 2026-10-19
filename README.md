@@ -42,25 +42,6 @@ Collect moments from several videos into one edit, extract a set of manually cho
 | Multiple local video sources | Adjust boundaries and merge neighbors in SCM | Check the order with Quick Preview |
 | Optional TransNetV2 detection | Save `.smx` projects and `.scm` scene maps | Choose codec, quality, resolution and FPS |
 
-## Two ways to your first video
-
-### 1. Let SceneMixer find the cuts
-
-1. Click **Add video** and choose your source files.
-2. Select a file in **Current source**, then click **Detect scenes**. Repeat for other sources as needed.
-3. Mark the scenes you want to use.
-4. Open **Scene Mixer** and click **Mix Scenes**.
-5. Check the sequence in **Quick Preview**.
-6. Review **Quality…**, click **Export**, and choose the output file.
-
-### 2. Pick the fragments yourself
-
-1. Add your videos and open **Cutter**.
-2. Set a fragment’s start and end, then click **Add scene**.
-3. Repeat for the fragments and sources you want.
-4. Use **All scenes → Mixer**, then **Mix Scenes**.
-5. Check **Quick Preview**, review the quality, and **Export**.
-
 ## Your videos, projects and scene maps
 
 | File | What it stores |
@@ -80,23 +61,6 @@ Enable the tools you need in **Settings → Optional Features**:
 - **Converter:** convert a video separately from the project’s Mix export.
 
 The interface and searchable built-in FAQ are available in English and Russian. Press **F1** for help. [Optional tools →](docs/optional-tools.md)
-
-## User guide
-
-| I want to… | Read |
-| --- | --- |
-| Make my first mix | [Automatic workflow](docs/tutorials/01_First_Mix.md) |
-| Choose clips by hand | [Cutter](docs/tutorials/02_Manual_Cutter.md) |
-| Understand Full, Selective and Seed | [Mix, preview and export](docs/tutorials/03_Mix_Preview_Export.md) |
-| Save work or restore moved files | [Projects and scene maps](docs/project-files.md) |
-| Compare variants or match originals | [Optional tools](docs/optional-tools.md) |
-| Find a shortcut or solve a problem | [Shortcuts](docs/keyboard-shortcuts.md) · [Troubleshooting](docs/troubleshooting.md) |
-
-[Open the full guide →](docs/user-guide.md)
-
-## System requirements
-
-SceneMixer is a Windows desktop application. The WIN01 test package targets **Windows x64**. Supported OS builds and minimum CPU, RAM, GPU and disk requirements await release testing. [Requirements and verification status →](SYSTEM_REQUIREMENTS.md)
 
 ## Help in the app
 
