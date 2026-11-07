@@ -1,0 +1,68 @@
+SCENEMIXER SOFTWARE LICENSE
+Freeware — Proprietary Software
+
+Copyright (c) 2026 oper59 (operfivenine).
+All rights reserved, except for the permissions expressly granted below.
+
+1. SCOPE
+
+This license applies to the SceneMixer desktop application and the original
+first-party software, executable files, and accompanying materials distributed
+as part of SceneMixer (the "Software"), unless a specific component states
+that it is governed by different terms.
+
+SceneMixer is freeware, not open-source software. Free availability of an
+installer or a public project page does not grant permission to reuse its
+source code or redistribute modified builds.
+
+2. PERMITTED USE
+
+You may download, install, and run unmodified official copies of the Software
+free of charge for personal, educational, and commercial activities. You may
+make copies reasonably necessary for your own installation and backup.
+
+You may use SceneMixer to inspect, cut, arrange, and export video and other
+supported media. The SceneMixer copyright holder does not acquire ownership
+of your original source files, editing projects, or exported videos merely
+because they were processed with SceneMixer. You are responsible for obtaining
+the rights needed to use any third-party footage, audio, graphics, or other
+content included in your work.
+
+3. RESTRICTIONS
+
+Except where expressly authorized by the copyright holder, an applicable
+third-party license, or mandatory law, you may not:
+
+- distribute, sell, sublicense, or repackage the Software or its modified
+  versions;
+- remove or misrepresent copyright, attribution, or trademark notices;
+- present an unofficial build as an official SceneMixer release;
+- reverse engineer or decompile the Software for purposes not permitted by
+  applicable law.
+
+You may share links to official download locations without restriction under
+this license. Permission to distribute third-party components is governed by
+their own licenses, not this restriction.
+
+4. THIRD-PARTY SOFTWARE
+
+The Software may bundle or interoperate with third-party components, such as
+FFmpeg, Qt/PySide, OpenCV, and other libraries. Those components are governed
+by their own licenses and copyright notices. Nothing in this license reduces
+rights or obligations established by those third-party licenses. Accompanying
+third-party notices and required license texts must be preserved as applicable.
+
+5. NO WARRANTY; LIMITATION OF LIABILITY
+
+To the extent permitted by applicable law, the Software is provided "AS IS",
+without warranties of any kind, express or implied. The copyright holder is
+not liable for damages resulting from the use or inability to use the Software,
+except where such liability cannot lawfully be excluded.
+
+6. PERMISSIONS AND CONTACT
+
+For redistribution, modification, incorporation into another product, or other
+permissions not granted above, contact the copyright holder or project operator
+through the official SceneMixer distribution channel.
+
+These terms do not waive rights that cannot be waived under applicable law.
